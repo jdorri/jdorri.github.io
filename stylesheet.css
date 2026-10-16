@@ -133,3 +133,11 @@ span.highlight {
 .circular--square { 
   border-radius: 50%; 
 }
+
+.section-heading {
+  margin: 0 0 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #ddd;
+  font-size: 22px;
+  font-weight: 700;
+}
